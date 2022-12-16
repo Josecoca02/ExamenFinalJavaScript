@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: rgb(12, 80, 5);
+    background-color: rgb(33, 61, 29);
 }
 
 img {
@@ -45,8 +45,8 @@ div {
 p {
     text-align:center;
     background-color:transparent;
-    color:red;
-    text-shadow:1px 1px goldenrod;
+    color:rgb(158, 240, 240);
+    text-shadow:1px 1px rgb(104, 1, 95);
     font-size:calc(1.2em + 1vw + 1vh);
     font-weight:bold;
     z-index:2;
